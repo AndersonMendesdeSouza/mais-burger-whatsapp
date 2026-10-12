@@ -144,7 +144,7 @@ export default function Main() {
 
   const handleWatsappClick = () => {
     if (openNow) {
-      const phone = "5564999663524";
+      const phone = "";
       const text = "Olá! 👋 Vim pelo site e gostaria de fazer um pedido.";
       window.open(
         `https://wa.me/${phone}?text=${encodeURIComponent(text)}`,

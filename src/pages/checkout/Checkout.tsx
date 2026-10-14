@@ -226,7 +226,7 @@ export default function Checkout() {
   }, [storeHours]);
 
   const waLink = useMemo(() => {
-    const phoneDest = "";
+    const phoneDest = "64999999687";
     const lines: string[] = [];
 
     lines.push(`🧾 *Pedido - ${fullNameValue || "-"}*`);

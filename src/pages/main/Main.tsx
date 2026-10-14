@@ -69,7 +69,7 @@ const productsMock: FoodResponseDto[] = [
     name: "Coca-Cola 2L",
     price: 6,
     desc: "Garrafa 2L",
-    img: "https://felicitapizzaria.chefware.com.br/67/0/0/coca-cola-2-litros.jpg",
+    img: "https://http2.mlstatic.com/D_NQ_NP_741015-MLA110951791308_052026-O.webp",
     category: "Bebidas",
   },
   {
@@ -85,7 +85,7 @@ const productsMock: FoodResponseDto[] = [
     name: "Batata Frita",
     price: 12,
     desc: "Porção",
-    img: "https://swiftbr.vteximg.com.br/arquivos/ids/201377-768-768/622291-batata-airfryer-extra-croc-mccain_3.jpg?v=638657204471230000",
+    img: "https://minhasreceitinhas.com.br/wp-content/uploads/2016/12/batata-frita-perfeita-scaled.jpg",
     category: "Adicionais",
   },
 ];
